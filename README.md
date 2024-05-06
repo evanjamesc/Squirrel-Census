@@ -7,7 +7,7 @@ More information about the data we're using can be found here: https://data.city
 ## Installation
 To run the squirrel census, follow these steps:
 
-1. **Clone the repository:**
+- Clone the repository:
 - git clone https://github.com/evanjamesc/squirrel-census.git
 - cd squirrel-census
 - Run "main.py" locally on your machine
