@@ -1,7 +1,8 @@
 # Squirrel Census
 
 ## Introduction
-Using squirrel-sighting [data](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data) gathered in Central Park in 2018, this program sorts and simplifies the data to show us the number of squirrels seen with each fur color. This data is written to a new csv file, and to a MongoDB database.
+Using squirrel-sighting data gathered in Central Park in 2018, this program sorts and simplifies the data to show us the number of squirrels seen with each fur color. This data is written to a new csv file, and to a MongoDB database.
+More information about the data we're using can be found here: https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data
 
 ## Installation
 To run the squirrel census, follow these steps:
